@@ -1,0 +1,27 @@
+2. THE REQUIRED DATA
+The data acquired for this project is a combination of data from these resources. The first data source uses London crime data  that shows the crime per borough in London. 
+The dataset contains following columns:
+•	Isoa_code:
+•	Borough
+•	major_category
+•	minor_category
+•	value
+•	year
+•	month
+The second source of data is scraped from a Wikipedia page that contains the List of London boroughs. This page contains additional information about the boroughs and has 
+following columns:
+•	Borough
+•	Inner
+•	Status
+•	Local authority
+•	Headquarters
+•	Area(sq mi)
+•	Population
+•	Co-ordinates
+•	Nr. In map
+The third data source is the List of neighborhood in the Royal Borough of Kingston upon Thames as found on Wikipedia page. This dataset is created from scratch using 
+the list of neighborhood  available on the site.:
+•	Neighborhood:
+•	Borough
+•	Latitude
+•	Longitude
