@@ -1,0 +1,15 @@
+ 1.INTRODUCTION
+
+-> BACKGROUND
+The average American moves about eleven times in their lifetime. So the question is do people move to find a place to settle down where they are happy or do their wants
+and needs change over time prompting them to leave a town for a new area. Or do they often move to a new area without knowing.
+To minimize the chances of this happening they should always do  a proper research when planning next move in life. Consider the following factors when picking a new place
+to live so you don’t end up wasting valuable time and energy and money. Safety is a top concern when moving to  a new area. And then comes other luxuries.
+
+->PROBLEM
+The crime statistics dataset of London found on Kaggle has crimes in each Boroughs of London from 2008-2016. The year 2016 being the latest. 
+This project aims to select the safest borough to find the 10 most common venues in each neighborhood and finally cluster the neighborhood using k-means clustering.
+
+->INTEREST
+These are those audience who considering to relocate to London and interested to find the safest borough in London and explore the neighborhood and common venues around 
+each neighborhood .
